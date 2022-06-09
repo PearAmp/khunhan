@@ -42,6 +42,8 @@
 		CF7342D31A144C3095FE6475 /* Prompt-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C175A474835C4FFD96A7E20B /* Prompt-Medium.ttf */; };
 		80E4FDC140B541A2BFE52173 /* Prompt-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FAE8D1DF265E4A758B2149BB /* Prompt-Regular.ttf */; };
 		36AEE6C954924B57ADF2A7D1 /* Prompt-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C2469BD09EAE40BE941CC1E0 /* Prompt-SemiBold.ttf */; };
+		FB3C04E1933C4155BD795D97 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F79AD59A96954DE098692F62 /* Ionicons.ttf */; };
+		BCD7CE2FD8F441D1A0B9BB2E /* Mitr-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8D94AD9732542318C484E10 /* Mitr-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,6 +102,8 @@
 		C175A474835C4FFD96A7E20B /* Prompt-Medium.ttf */ = {isa = PBXFileReference; name = "Prompt-Medium.ttf"; path = "../assets/fonts/Prompt-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		FAE8D1DF265E4A758B2149BB /* Prompt-Regular.ttf */ = {isa = PBXFileReference; name = "Prompt-Regular.ttf"; path = "../assets/fonts/Prompt-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		C2469BD09EAE40BE941CC1E0 /* Prompt-SemiBold.ttf */ = {isa = PBXFileReference; name = "Prompt-SemiBold.ttf"; path = "../assets/fonts/Prompt-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F79AD59A96954DE098692F62 /* Ionicons.ttf */ = {isa = PBXFileReference; name = "Ionicons.ttf"; path = "../node_modules/react-native-ionicons/fonts/Ionicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E8D94AD9732542318C484E10 /* Mitr-Bold.ttf */ = {isa = PBXFileReference; name = "Mitr-Bold.ttf"; path = "../assets/fonts/Mitr-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +197,8 @@
 				C175A474835C4FFD96A7E20B /* Prompt-Medium.ttf */,
 				FAE8D1DF265E4A758B2149BB /* Prompt-Regular.ttf */,
 				C2469BD09EAE40BE941CC1E0 /* Prompt-SemiBold.ttf */,
+				F79AD59A96954DE098692F62 /* Ionicons.ttf */,
+				E8D94AD9732542318C484E10 /* Mitr-Bold.ttf */,
 			);
 			name = Resources;
 			path = "";
@@ -365,6 +371,8 @@
 				CF7342D31A144C3095FE6475 /* Prompt-Medium.ttf in Resources */,
 				80E4FDC140B541A2BFE52173 /* Prompt-Regular.ttf in Resources */,
 				36AEE6C954924B57ADF2A7D1 /* Prompt-SemiBold.ttf in Resources */,
+				FB3C04E1933C4155BD795D97 /* Ionicons.ttf in Resources */,
+				BCD7CE2FD8F441D1A0B9BB2E /* Mitr-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
